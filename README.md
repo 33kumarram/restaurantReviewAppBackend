@@ -64,9 +64,7 @@ Finally, start the server:
 
 npm start
 
-The server 
-
-should now be running on port mentioned in the .env file
+The server should now be running on port mentioned in the .env file
 
 
 
