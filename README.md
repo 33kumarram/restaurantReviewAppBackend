@@ -51,7 +51,7 @@ You will also need to create a .env file in the root of the project directory, c
 
 MONGODB_URI= your MongoDB connection string
 
-JWT_SECRET=<a secret key for JSON Web Token (JWT) encryption>
+JWT_SECRET=a secret key for JSON Web Token (JWT) encryption
 
 APP_URL = Your backend url
 
