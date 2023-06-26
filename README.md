@@ -118,7 +118,7 @@
 
     4.Push your changes to your forked repository
 
-5.Open a pull request to merge your changes into the master branch
+    5.Open a pull request to merge your changes into the master branch
 
 
 
