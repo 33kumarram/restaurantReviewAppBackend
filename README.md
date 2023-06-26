@@ -7,7 +7,6 @@
 ## Table Of Content
 
 - [Description](#description)
-- [Deployed website link](#deployedWebsite)
 - [Installation](#installation)
 - [API End Points](#APIEndPoints)
 - [Contributing](#contribution)
@@ -87,23 +86,24 @@
 
 
 ## APIEndPoints
-    <strong>'/restaurants/list/:pageNo'</strong>: Retrieve a list of restaurants on a specific page.
-  
-    <strong>'/restaurants/totalpages'</strong>: Retrieve the count of pages in restaurent list.
-  
-    <strong>'/restaurants/add'</strong>: To add new restaurant details.
-  
-    <strong>'/restaurants/listforadmin/:pageNo'</strong>: Retrive list of restaurants on specific page with review count for analytics purpose.
+
+    `/restaurants/list/:pageNo`: Retrieve a list of restaurants on a specific page.
+
+    `/restaurants/totalpages`: Retrieve the count of pages in restaurent list.
+
+    `/restaurants/add`: To add new restaurant details.
+
+    `/restaurants/listforadmin/:pageNo`: Retrive list of restaurants on specific page with review count for analytics purpose.
 
 
-     <strong>'/reviews/:restaurantId'</strong>: Retrive reviews for a specific restaurant.
-   
-     <strong>'/reviews/add'</strong>: To add a review for a specific restaurant.
+     `/reviews/:restaurantId`: Retrive reviews for a specific restaurant.
+
+     `/reviews/add`: To add a review for a specific restaurant.
 
 
-     <strong>'/users/register'</strong>: To register a new user.
-   
-     <strong>'/users/login'</strong>: To log In.
+     `/users/register`: To register a new user.
+
+     `/users/login`: To log In.
  
 
 ## Contribution
